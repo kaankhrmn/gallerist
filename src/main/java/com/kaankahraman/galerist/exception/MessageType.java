@@ -16,5 +16,4 @@ public enum MessageType {
         this.code = code;
         this.message = message;
     }
-
 }
